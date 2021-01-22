@@ -105,12 +105,42 @@
   }
   .searchbox{
     border-radius: 100%;
-    background-color: rgb(219, 216, 216);
+    background-color: rgb(243, 243, 243);
   }
   .profile-img 
   {
      border-radius: 100%;
   }
+  .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link {
+    background: rgb(243, 243, 243);
+    color: black;
+    /* border-bottom: 2px solid #0c5aa0; */
+  }
+  thead{
+    background-color:rgb(243, 243, 243) ;
+  }
+  .adv_search{
+    border-radius: 6%;
+    background-color: #ffffff;
+    color: #0c5aa0;
+    border: #ffffff;
+
+  }
+  .tab_search_btn{
+    border-radius: 6%;
+    background-color: #0c5aa0;
+    color: #ffffff;
+    border: #0c5aa0;
+
+  }
+  .tab_search_btn:hover{
+    border-radius: 6%;
+    background-color: rgb(235, 119, 12);
+    color: #ffffff;
+    border: rgb(235, 119, 12);
+
+  }
+
   
  
   

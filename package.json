@@ -16,6 +16,7 @@
   "dependencies": {
     "bootstrap": "^4.6.0",
     "bootstrap-material-design": "^4.1.1",
-    "font-awesome": "^4.7.0"
+    "font-awesome": "^4.7.0",
+    "responsive-bootstrap-tabs": "^1.0.0"
   }
 }
