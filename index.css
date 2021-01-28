@@ -175,7 +175,7 @@
   .tab_export_btn:hover{
     background-color: rgb(235, 119, 12);
   }
-  table{
+  .tbl{
     overflow-y:scroll;
     height:100px;
     display:block;
